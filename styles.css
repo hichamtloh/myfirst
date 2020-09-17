@@ -1,0 +1,41 @@
+body{
+		font-family:'source code pro', calibr, serif;
+		margin:0px;
+		padding:0px;
+}
+nav{
+	width:100%;
+	background-color:#424558;
+}	
+nav ul{
+		margin:0px;
+		padding:0px;
+		overflow:hidden;		
+}
+nav li{
+		list-style-type:none;
+		float:left;
+}	
+nav a 
+{
+		display:inline-block;
+		text-decoration:none;
+		padding:20px 30px;
+		color:#FFF;
+}	
+.menu-html:hover{
+				border-top:5px solid #e44d26;
+				background-color:RGBa(228, 77, 38, 0.15)
+}	
+.menu-css:hover{
+				border-top:5px solid #0070BB;
+				background-color:RGBa(000, 112, 192, 0.15)
+}	
+.menu-javascript:hover{
+						border-top:5px solid #f1dc4F;
+						background-color:RGBa(241, 211, 79, 0.15)
+}
+.menu-contact:hover{
+					border-top:5px solid #bbb;
+					background-color:RGBa(220, 220, 220, 0.15)
+}	
